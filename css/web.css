@@ -1,0 +1,176 @@
+/*Aaron's code*/
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: rgb(124, 55, 24,20%);
+}
+.gal_display{
+    color:rgb(182, 227, 212),
+}
+.gal_title{
+    color: white;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    text-align:left;
+    font-size: 20px;
+    background-color: yellow;
+    background-image: linear-gradient(to right,rgb(124, 55, 24),rgb(209, 69, 4));
+    padding-left: 20px;
+    box-shadow: 0px 20px 20px grey;
+}
+
+#gal_txt{
+    font-family: "Roboto Condensed", sans-serif;
+    color: white;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    word-spacing: 2px;
+    font-weight: 300;
+    border-radius: 20px;
+    background-color: rgb(124, 55, 24,0.7);
+}
+#gal_display_flex{
+    display: flex;
+    column-gap: 60px;
+    padding-left: 160px;
+    padding-bottom: 150px;
+}
+.divider1{
+    display: flex;
+    background-color: rgba(124, 55, 24,0.8);
+    padding: 2px;
+    box-shadow: 0px 5px 5px grey;
+}
+.disp img{
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px rgb(0,0,0,70%);
+}
+#swhats{
+    display: flex;
+    column-gap: 50px;
+    padding-left: 20px;
+    padding-top: 100px;
+}
+#swatsmain{
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px rgb(0,0,0,70%);
+}
+#swhats_txt{
+    font-family: Georgia, Times, serif;
+    font-size: 50px;
+}
+.imgs{
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px rgb(0,0,0,70%);
+    
+}
+#main2 h3{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 15px;
+}
+
+#main2{
+    margin-top: -40px;
+}
+#achieve_txt{
+    padding-top: 20px;
+}
+#achieve_disp_flex{
+    display: flex;
+    align-items: center;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.items1{
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 20px;
+    box-shadow: 0px 20px 20px grey;
+    background-color: rgb(124, 55, 24,0.7);
+}
+.items2{
+    margin-top: -200px;
+    padding-left: 20px;
+}
+.items3{
+    margin-top: -150px;
+    border-radius: 20px;
+}
+.flex_item{
+    font-weight: 200;
+    font-size: 15px;
+
+}
+.flex_img{
+    border-radius: 20px;
+    padding-top: 40px;
+}
+.flex_img2{
+    border-radius: 20px;
+    padding-top: 40px;
+}
+.flex_img3{
+    border-radius: 20px;
+    padding-top: 40px;
+}
+.gal_title1{
+    color: white;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    text-align:left;
+    font-size: 20px;
+    background-color: yellow;
+    background-image: linear-gradient(to right,rgb(124, 55, 24),rgb(209, 69, 4));
+    padding-left: 20px;
+    box-shadow: 0px 20px 20px grey;
+}
+.title_result{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.title_result:hover{
+    color: white;
+}
+.result_txt{
+    background-color: rgb(124, 55, 24,70%);
+}
+.result_txt:hover{
+    background-color: rgb(124, 55, 24,100%);
+}
+.result_flex{
+    display: flex;
+    column-gap: 50px;
+}
+.result_1{
+    padding-left: 260px;
+    padding-right: 120px;
+}
+.result_1 img{
+    border-radius: 20px;
+    box-shadow: 0px 3px 3px rgb(124, 55, 24,80%);
+}
+.result_2{
+    padding-left: 100px;
+}
+.result_2 img{
+    border-radius: 20px;
+    box-shadow: 0px 3px 3px rgb(124, 55, 24,80%);
+}
+#divider2{
+    border-right: 2px;
+    border-right: 1px solid white;
+    margin-top: -20px;
+}
+.text_flex{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 800;
+    padding-top: 20px;
+}
